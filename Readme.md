@@ -23,3 +23,5 @@ Solutions for the exercises set in the
 - Exercise 05: [Use a loop to iterate on data](car5)
 - Exercise 06: [Use the Option type to deal with absence](person)
 - Exercise 07: [Use the Result type to handle errors](file)
+- Exercise 08: [Implement a generic type](container)
+- Exercise 09: [Implement an iterator](groups)
