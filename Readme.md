@@ -25,3 +25,5 @@ Solutions for the exercises set in the
 - Exercise 07: [Use the Result type to handle errors](file)
 - Exercise 08: [Implement a generic type](container)
 - Exercise 09: [Implement an iterator](groups)
+- Exercise 10: [Visibility](car-factory)
+- Exercise 11: [Modules](text-processing)
