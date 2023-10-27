@@ -27,3 +27,6 @@ Solutions for the exercises set in the
 - Exercise 09: [Implement an iterator](groups)
 - Exercise 10: [Visibility](car-factory)
 - Exercise 11: [Modules](text-processing)
+- Exercise 12: [Write unit tests](unit-test)
+- Exercise 13: [Write documentation tests](doctests_exercise)
+- Exercise 14: [Commandline todo list program](rusty-journal)
